@@ -18,4 +18,4 @@ GR-SAKURAでFM音源YM2203を制御するシールド基板とソースコード
 * FM_Shield_src : ソース (GR-SAKURA用)
 * oh_fmongen_ntk2014.pdf : Oh!FM音源 (薄い本)
   * 特集1: FM音源の基礎とYM2203
-  * GR-SAKURA用シールド
+  * 特集2: GR-SAKURA用シールド
